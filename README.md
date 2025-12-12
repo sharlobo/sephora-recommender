@@ -1,4 +1,4 @@
-# sephora-recommender
+# Sephora Recommender
 
 This repository contains the code for a personalized skincare and makeup recommendation system built using natural language processing and retrieval-based methods. The system matches user queries to Sephora products by leveraging semantic similarity over customer review text, followed by a light explanation layer.
 
